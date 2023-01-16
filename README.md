@@ -7,6 +7,7 @@ This project is about building a new innovative CPE-router for prosumers. After 
 * RAM: 4 GB
 * NAND: 256GB
 * Kernel: Mainline, always the most recent, secure and feature richest kernel directly build from mainline
+* Alpine Linux as base OS that is "designed for power users who appreciate security, simplicity and resource efficiency"
 * IPv6 first design for a modern network
 * IPv6-only on internal networks
 * Jool for NAT64 and NAT46 (port forwardings)
@@ -26,6 +27,9 @@ This project is about building a new innovative CPE-router for prosumers. After 
 * Slim form factor (Mini-ITX, ...)
 * Multi Site deployment (share configuration over Site2Site VPN link)
 * SFP+ Slots (or bundled media converters) for VDSL, DOCSIS, Fiber, ...
+* PoE In/Out
+* 2.5GBASE-T or 5GBASE-T
+* >4 Ethernet Ports
 
 ## Architecture
 
