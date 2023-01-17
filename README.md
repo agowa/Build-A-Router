@@ -30,6 +30,8 @@ This project is about building a new innovative CPE-router for prosumers. After 
 * PoE In/Out
 * 2.5GBASE-T or 5GBASE-T
 * >4 Ethernet Ports
+* TPM for secure and transparent system encryption
+* RTC (maybe integrated into GPS/5G module)
 
 ## Architecture
 
