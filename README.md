@@ -29,7 +29,7 @@ This project is about building a new innovative CPE-router for prosumers. After 
 * SFP+ Slots (or bundled media converters) for VDSL, DOCSIS, Fiber, ...
 * PoE In/Out
 * 2.5GBASE-T or 5GBASE-T
-* >4 Ethernet Ports
+* &gt;4 Ethernet Ports
 * TPM for secure and transparent system encryption
 * RTC (maybe integrated into GPS/5G module)
 
